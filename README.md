@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asagar-hatica
+- 👋 Hi, I’m Akshay
 - 🌱 I’m currently learning about Git
 <!---
 asagar-hatica/asagar-hatica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
